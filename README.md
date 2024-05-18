@@ -1,6 +1,7 @@
-# MICROSOFT-POWERPOINT
 
-*perdão pelo erro no repositorio :/*
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-powerpoint-icon.png" width="150px">
+
+# MICROSOFT-POWERPOINT
 
 ## VIA CERTA
 ✔️ Conceitos aprendidos:
@@ -11,3 +12,6 @@
 5. Numeros no slide
 6. Apresentação de Slides
 7. Imagens
+8. Tabela
+9. Tabela Excel
+10. Sumario
